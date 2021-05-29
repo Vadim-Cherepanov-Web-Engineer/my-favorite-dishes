@@ -1,0 +1,17 @@
+.footer__copyright {
+	margin: 0;
+	flex-shrink: 0;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 22px;
+	color: white;
+	text-decoration: none;
+	opacity: 1;
+	transition-property: opacity;
+	transition-duration: 0.5s;
+	transition-timing-function: ease;
+}
+
+.footer__copyright:hover {
+	opacity: 0.4;
+}
