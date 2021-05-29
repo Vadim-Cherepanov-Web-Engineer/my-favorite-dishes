@@ -1,0 +1,17 @@
+.header__logo {
+	margin: 0%;
+	width: 200px;
+	height: 200px;
+	padding-bottom: 40px;
+}
+
+@media (max-width: 900px) {
+	.header__logo {
+		width: 120px;
+		height: 120px;
+		padding-bottom: 30px;
+		margin-left: 27px;
+		display: flex;
+		align-content: center;
+	}
+}
