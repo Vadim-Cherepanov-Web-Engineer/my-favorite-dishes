@@ -28,7 +28,7 @@ const initialCards = [{
 },
 {
   name: 'Рассольник',
-  link: 'https://bankety.tasty-family.ru/img/menu/горячее/Уткапо-пекински.jpg'
+  link: 'https://sun9-26.userapi.com/impf/FzMIxkdmRONQLOfI7HU5ttZy2vUFKUE_LG2zIw/YWKSVKv5zEw.jpg?size=506x604&quality=96&sign=de4e242f12087f5bcc3a2adcd240ca1b&type=album'
 },
 {
   name: 'Блины с творогом',

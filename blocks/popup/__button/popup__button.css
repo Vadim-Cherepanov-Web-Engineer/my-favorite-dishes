@@ -2,13 +2,14 @@
   margin: 13px 36px 36px;
   min-width: 358px;
   min-height: 50px;
-  background-color: black;
-  color: white;
+  background-color: yellow;
+  color: black;
   font-size: 18px;
   line-height: 22px;
   border: 0;
   border-radius: 2px;
   outline: none;
+	border: 1px solid blue;
 }
 
 .popup__button:hover {
