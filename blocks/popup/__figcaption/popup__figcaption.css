@@ -1,6 +1,13 @@
 .popup__figcaption {
   font-weight: normal;
-	font-size: 12px;
-  line-height: 15px;
+	font-size: 40px;
+  line-height: 45px;
 	color: white;
+}
+
+@media (max-width: 768px) {
+	.popup__figcaption {
+		font-size: 26px;
+  line-height: 30px;
+	}
 }

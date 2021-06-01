@@ -43,7 +43,7 @@ const initialCards = [{
   link: 'https://mykaleidoscope.ru/uploads/posts/2020-01/1579919107_10-p-torti-napoleon-15.jpg'
 },
 {
-  name: 'Лимонный морс',
+  name: 'Лимонад',
   link: 'https://i.pinimg.com/originals/0c/88/97/0c8897da2e823db5b1728a8d955e8a4f.png'
 },
 ];
