@@ -32,7 +32,7 @@ const initialCards = [{
 },
 {
   name: 'Блины с творогом',
-  link: 'http://bookandcook.pl/uploads/recipe/0eecbfa323f55ad7b2858159ed6ad4a623689725.jpg'
+  link: 'https://i.pinimg.com/736x/6c/1a/af/6c1aafc80a5ef473f4b443ce1680f060.jpg'
 },
 {
   name: 'Халва',
