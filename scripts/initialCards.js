@@ -8,7 +8,7 @@ const initialCards = [{
 },
 {
   name: 'Долма',
-  link: 'https://im0-tub-ru.yandex.net/i?id=3131fb9213a355557bf8d9ea8935a0ea-l&n=13'
+  link: 'https://i.pinimg.com/736x/89/4a/8e/894a8e87b10268c058b4e6069c106d8e.jpg'
 },
 {
   name: 'Баранина запечённая',
